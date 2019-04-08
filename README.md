@@ -1,6 +1,6 @@
 # Analiza Ljubljanskega potniškega prometa 
 
-Projekt je bil narejen v okviru Fakultete za matematiko in fiziko predmeta Programiranje 2. Mentorja projekta sta Lovro Šubelj in Matjaž Zaveršnik. 
+Projekt je bil narejen v okviru Fakultete za matematiko in fiziko predmeta Programiranje 2. Mentorja projekta sta **Lovro Šubelj** in **Matjaž Zaveršnik**. 
 
 Zamisel projekta je bila analiza javnega prometa. Velik del kode je pridobivanje podatkov, sledi nekaj analize podatkov in na koncu grafična umestitev. Analizirala sva število avtobusov, ki so ob določeni uri na cesti ter narisala graf postaj, kjer velikost pike določa količino avtobusov, ki vozijo po teh postajah.
 
