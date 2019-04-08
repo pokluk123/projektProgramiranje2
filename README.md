@@ -11,6 +11,7 @@ Za zagon programa odprite datoteko **"LPP.py"** in jo zaženite. Ker sta za prid
 4. json
 
 Slike:
-![alt text](image.jpg)
+![Avtobusi glede na uro](avtobusiNaUro.png)
+![Število povezav glede na postajo](steviloPovezav.png)
 
 Dominik Žnidaršič & Aleš Poklukar
