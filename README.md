@@ -10,4 +10,7 @@ Za zagon programa odprite datoteko **"LPP.py"** in jo zaženite. Ker sta za prid
 3. requests 
 4. json
 
+Slike:
+![alt text](image.jpg)
+
 Dominik Žnidaršič & Aleš Poklukar
